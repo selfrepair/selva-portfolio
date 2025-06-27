@@ -63,7 +63,7 @@ menu:
     - name: Videos
       url: /videos/
       weight: 2
-    - name: Research
+    - name: text
       url: /research/
       weight: 3
     - name: other

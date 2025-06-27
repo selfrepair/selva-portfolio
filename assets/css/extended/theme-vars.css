@@ -3,21 +3,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
 
 :root {
-  /* keep your warm background but fix text contrast */
-  --theme: #faf8f5;        /* warm cream background */
-  --entry: #f4f1eb;        /* card backgrounds */
-  --primary: #1a1a1a;      /* much darker for readability */
-  --secondary: #2d2d2d;    /* dark grey for secondary text */
-  --tertiary: #deb887;     /* subtle elements */
-  --content: #222222;      /* very dark for body text */
-  --hljs-bg: #f5f5dc;      /* code blocks */
-  --code-bg: #f0e68c;      /* inline code */
-  --border: #d2b48c;       /* borders */
+  --theme: #f7f8f3;          /* soft cream */
+  --entry: #f1f3ec;          /* light sage */
+  --primary: #2d3319;        /* dark forest green */
+  --secondary: #4a5233;      /* medium green */
+  --tertiary: #c8d1b8;       /* light sage green */
+  --content: #363c24;        /* dark green text */
+  --hljs-bg: #f1f3ec;        /* light sage */
+  --code-bg: #e8ede0;        /* pale green */
+  --border: #c8d1b8;         /* sage border */
   
-  /* custom accent colors */
-  --accent-warm: #ff6b35;
-  --accent-cool: #4a90e2;
+  --accent-warm: #a67b5b;    /* warm brown */
+  --accent-cool: #6b8e5a;    /* forest green */
 }
+
 
 /* TYPEWRITER FONT FOR EVERYTHING */
 * {

@@ -6,7 +6,6 @@ categories: ["videos"]
 years: ["2019", "2020", "2021", "2022"]
 types: ["documentary-series"]
 languages: ["turkish"]
-youtube_channel: "UC_CHANNEL_ID_HERE"
 ---
 
 # şokopop
@@ -20,34 +19,26 @@ youtube_channel: "UC_CHANNEL_ID_HERE"
 ## chronological projects
 
 ### 2019
-- **[yıldız sezen kan davası](/videos/sokopop/yildiz-sezen/)** - legal battle analysis
+- **[yıldız sezen blood feud](/videos/sokopop/yildiz-sezen/)** 
 
 ### 2020
-- **[nez: the real turkish delight](/videos/sokopop/nez/)** - cultural identity exploration
-- **[projects for gain](/videos/sokopop/gain-projects/)** - branded content series
+- **[nez: the real turkish delight](/videos/sokopop/nez/)** 
+- **[projects for gain](/videos/sokopop/gain)** - contents for digital platform gain
 
 ### 2021
-- **[ebru gündeş: the princess of fantezi music](/videos/sokopop/ebru-gundes/)** - music industry deep dive
-- **[special new year episodes](/videos/sokopop/yilbasi/)** - year-end cultural analysis
-- **[duygu asena: actually we are free](/videos/sokopop/duygu-asena/)** - feminist icon profile
-- **[tarkan girls](/videos/sokopop/tarkan-girls/)** - fan culture investigation
+- **[ebru gündeş: the princess of fantezi music](/videos/sokopop/ebru-gundes/)**  
+- **[special new year episodes](/videos/sokopop/yilbasi/)** 
+- **[duygu asena: actually we are free](https://youtu.be/aXei4QKvrOY?si=GBlQFlbqiTu3I7TX)** - profile of feminist icon duygu asena and history of feminist publications in turkey
+- **[tarkan girls](https://www.youtube.com/watch?v=fhBxaPc0PYc)** - investigation of famous turkish b movie series tarkan, their women leads and the history of comic books in turkey
 
 ### 2022
-- **[murti: turkey's aids panic](/videos/sokopop/murti/)** - public health crisis analysis
+- **[murti: turkey's aids panic](https://www.youtube.com/watch?v=torak37jmws)** - public health crisis analysis
+- **[birds of exile](https://youtu.be/x1_a7rFdPwE?si=3dMv0YieFZI9vxEM)** - a collab video with mubi for cem kaya's "liebe, d-mark und tod" doc
 
-## impact & recognition
-- **250k youtube subscribers**
-- **18m+ total views** across all episodes
-- **viral political content** shared widely across turkish social media
-- **brand partnerships** with digital platforms (mubi, blutv, gain)
-- **critical and investigative approach** 
+---
 
-## my role
-**senior editor & researcher** - end-to-end content production from research to viral distribution:
-- archival investigation and fact-checking
-- interview methodology and expert coordination  
-- script development and narrative design
-- video editing and post-production
-- audience development and community engagement
+**250k youtube subscribers** | **18m+ total views** | **viral political content** shared widely across turkish social media | **brand partnerships** with digital platforms (mubi, blutv, gain)
+
+**my role**: senior editor & researcher - end-to-end content production from research to viral distribution, archival investigation and fact-checking, interview methodology, script development, video editing and audience development.
 
 **links**: [youtube channel](https://www.youtube.com/c/%C5%9EOKOPOP) | [instagram](https://www.instagram.com/sok_o_pop/)

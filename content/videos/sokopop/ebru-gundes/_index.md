@@ -11,7 +11,7 @@ series: "şokopop"
 # ebru gündeş: the young princess of fantezi music
 *march 2021 • 5 episodes • 136 minutes total • 1.93 million views*
 
-the story of singer ebru gündeş was interesting for several reasons: her name was in an international money laundering case through her sensational husband reza zarrab. she was from a working-class background, loved by millions, especially after her public brain hemorrhage on live tv, and after this marriage she was shied away from the public eye, except for 1-2 concerts a year.
+the story of singer ebru gündeş was interesting for several reasons: her name was in an international money laundering case through her sensational husband **reza zarrab**. she was from a working-class background, loved by millions, especially after her public brain hemorrhage on live tv, and after this marriage she was shied away from the public eye, except for 1-2 concerts a year.
 
 her fame spans not only turkey, but the whole middle east region. still to this day i meet people from the region who say they love her as a conversation opener.
 

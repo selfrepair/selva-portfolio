@@ -1,1 +1,187 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on home</title><link>https://selvads.com/tags/</link><description>Recent content in Tags on home</description><generator>Hugo -- 0.147.3</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://selvads.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>1990s-Turkey</title><link>https://selvads.com/tags/1990s-turkey/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/1990s-turkey/</guid><description/></item><item><title>Celebrity-Culture</title><link>https://selvads.com/tags/celebrity-culture/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/celebrity-culture/</guid><description/></item><item><title>Documentary</title><link>https://selvads.com/tags/documentary/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/documentary/</guid><description/></item><item><title>Gender</title><link>https://selvads.com/tags/gender/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/gender/</guid><description/></item><item><title>Music-Industry</title><link>https://selvads.com/tags/music-industry/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/music-industry/</guid><description/></item><item><title>History</title><link>https://selvads.com/tags/history/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/history/</guid><description/></item><item><title>Media-Production</title><link>https://selvads.com/tags/media-production/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/media-production/</guid><description/></item><item><title>Methodology</title><link>https://selvads.com/tags/methodology/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/methodology/</guid><description/></item><item><title>Politics</title><link>https://selvads.com/tags/politics/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/politics/</guid><description/></item><item><title>Şokopop</title><link>https://selvads.com/tags/%C5%9Fokopop/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/%C5%9Fokopop/</guid><description/></item><item><title>Team</title><link>https://selvads.com/tags/team/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/team/</guid><description/></item><item><title>Turkish-History</title><link>https://selvads.com/tags/turkish-history/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/turkish-history/</guid><description/></item><item><title>Viral-Content</title><link>https://selvads.com/tags/viral-content/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/viral-content/</guid><description/></item><item><title>Fact-Checking</title><link>https://selvads.com/tags/fact-checking/</link><pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/fact-checking/</guid><description/></item><item><title>Investigative-Journalism</title><link>https://selvads.com/tags/investigative-journalism/</link><pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/investigative-journalism/</guid><description/></item><item><title>Research</title><link>https://selvads.com/tags/research/</link><pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate><guid>https://selvads.com/tags/research/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on home</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on home</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1990s-Turkey</title>
+      <link>http://localhost:1313/tags/1990s-turkey/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/1990s-turkey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Celebrity-Culture</title>
+      <link>http://localhost:1313/tags/celebrity-culture/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/celebrity-culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentary</title>
+      <link>http://localhost:1313/tags/documentary/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/documentary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gender</title>
+      <link>http://localhost:1313/tags/gender/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music-Industry</title>
+      <link>http://localhost:1313/tags/music-industry/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/music-industry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lgbtq</title>
+      <link>http://localhost:1313/tags/lgbtq/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lgbtq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Millennium</title>
+      <link>http://localhost:1313/tags/millennium/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/millennium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New-Year-Celebrations</title>
+      <link>http://localhost:1313/tags/new-year-celebrations/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/new-year-celebrations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turkish-Television</title>
+      <link>http://localhost:1313/tags/turkish-television/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/turkish-television/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Media-Production</title>
+      <link>http://localhost:1313/tags/media-production/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/media-production/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Methodology</title>
+      <link>http://localhost:1313/tags/methodology/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/methodology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:1313/tags/politics/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/politics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Şokopop</title>
+      <link>http://localhost:1313/tags/%C5%9Fokopop/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%C5%9Fokopop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>http://localhost:1313/tags/team/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/team/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turkish-History</title>
+      <link>http://localhost:1313/tags/turkish-history/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/turkish-history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Viral-Content</title>
+      <link>http://localhost:1313/tags/viral-content/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/viral-content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fact-Checking</title>
+      <link>http://localhost:1313/tags/fact-checking/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fact-checking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investigative-Journalism</title>
+      <link>http://localhost:1313/tags/investigative-journalism/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/investigative-journalism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1980s-Turkey</title>
+      <link>http://localhost:1313/tags/1980s-turkey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/1980s-turkey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2000s-Turkey</title>
+      <link>http://localhost:1313/tags/2000s-turkey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2000s-turkey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Commissioned-Work</title>
+      <link>http://localhost:1313/tags/commissioned-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/commissioned-work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sexual-Abuse</title>
+      <link>http://localhost:1313/tags/sexual-abuse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sexual-abuse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sexuality</title>
+      <link>http://localhost:1313/tags/sexuality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sexuality/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
