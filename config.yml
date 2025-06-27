@@ -1,0 +1,83 @@
+baseURL: 'https://selvads.com'
+languageCode: 'en-us'
+title: 'home'
+theme: 'PaperMod'
+
+# Enable taxonomies (tagging system)
+taxonomies:
+  tag: tags
+  category: categories
+  year: years
+  type: types
+  language: languages
+
+params:
+  profileMode:
+    enabled: true
+    title: "selva daşdemir"
+    subtitle: |
+      i studied **sociology** and **psychology**, and i'm completing my masters in **interdisciplinary studies of middle east**. i'm interested in **history**, **media studies**, **popular culture**, **migration**, and **memory studies**.
+
+      <br>
+
+      
+      people have called my work **"memory activism"** and **"open source investigation"**. i make documentaries and do academic research.
+
+      <br>
+      
+      you can check out some of my work here.
+    buttons:
+      - name: "🎬 şokopop videos"
+        url: "/videos/sokopop"
+      - name: "📄 migration research"
+        url: "/research/migration-study"
+      - name: "🏛️ hammam project"
+        url: "/research/hammam"
+
+  # Site settings
+  env: development
+  description: "Interdisciplinary researcher applying computational methods to social research and media production"
+  author: "Selva Daşdemir"
+  
+  # Theme settings
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  
+  # Social links
+  socialIcons:
+    - name: "email"
+      url: "mailto:selvadsdmr@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/selva-da%C5%9Fdemir-94a138180/"
+
+
+# Menu configuration
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Videos
+      url: /videos/
+      weight: 2
+    - name: Research
+      url: /research/
+      weight: 3
+    - name: other
+      url: /other/
+      weight: 4
+    - name: in-progress
+      url: /in-progress/
+      weight: 5
+    - name: CV
+      url: /selva-dasdemir-cv.pdf/
+      weight: 6
+
+# Build settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

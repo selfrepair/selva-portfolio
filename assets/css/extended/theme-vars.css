@@ -1,0 +1,313 @@
+/* typewriter font + lowercase + better readability + cool link design */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
+
+:root {
+  /* keep your warm background but fix text contrast */
+  --theme: #faf8f5;        /* warm cream background */
+  --entry: #f4f1eb;        /* card backgrounds */
+  --primary: #1a1a1a;      /* much darker for readability */
+  --secondary: #2d2d2d;    /* dark grey for secondary text */
+  --tertiary: #deb887;     /* subtle elements */
+  --content: #222222;      /* very dark for body text */
+  --hljs-bg: #f5f5dc;      /* code blocks */
+  --code-bg: #f0e68c;      /* inline code */
+  --border: #d2b48c;       /* borders */
+  
+  /* custom accent colors */
+  --accent-warm: #ff6b35;
+  --accent-cool: #4a90e2;
+}
+
+/* TYPEWRITER FONT FOR EVERYTHING */
+* {
+  font-family: 'JetBrains Mono', 'Courier Prime', 'Courier New', monospace !important;
+}
+
+/* MAKE EVERYTHING LOWERCASE */
+* {
+  text-transform: lowercase !important;
+}
+
+/* fix readability on the gradient background */
+.profile-mode {
+  background: rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(10px) !important;
+  border-radius: 20px !important;
+  padding: 3rem 2rem !important;
+  margin: 2rem !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.profile-title {
+  color: #ffffff !important;
+  font-size: 3rem !important;
+  font-weight: 600 !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3) !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.profile-subtitle {
+  color: #f0f0f0 !important;
+  font-size: 1.1rem !important;
+  line-height: 1.7 !important;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3) !important;
+  margin-bottom: 2rem !important;
+}
+
+/* REPLACE UGLY BUTTONS WITH COOL TYPEWRITER-STYLE LINKS */
+.profile-buttons {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 15px !important;
+  max-width: 400px !important;
+  margin: 2rem auto 0 auto !important;
+}
+
+.profile-buttons .button {
+  /* remove button styling */
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  
+  /* typewriter terminal style */
+  display: block !important;
+  color: #ffffff !important;
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 1rem !important;
+  text-decoration: none !important;
+  text-align: left !important;
+  padding: 12px 20px !important;
+  
+  /* terminal/typewriter aesthetic */
+  background: rgba(0, 0, 0, 0.6) !important;
+  border: 2px solid #00ff00 !important;
+  border-radius: 0 !important;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.3) !important;
+  
+  transition: all 0.3s ease !important;
+  position: relative !important;
+}
+
+/* add cursor effect */
+.profile-buttons .button::before {
+  content: "> " !important;
+  color: #00ff00 !important;
+  font-weight: bold !important;
+}
+
+/* hover effect like terminal */
+.profile-buttons .button:hover {
+  background: rgba(0, 255, 0, 0.1) !important;
+  border-color: #00ffff !important;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.5) !important;
+  transform: translateX(10px) !important;
+  color: #00ffff !important;
+}
+
+.profile-buttons .button:hover::before {
+  content: ">> " !important;
+  color: #00ffff !important;
+}
+
+/* typewriter effect for nav menu too */
+.menu a {
+  font-family: 'JetBrains Mono', monospace !important;
+  text-transform: lowercase !important;
+  color: #333 !important;
+  transition: all 0.3s ease !important;
+}
+
+.menu a:hover {
+  color: #ff6b35 !important;
+  text-shadow: 1px 1px 2px rgba(255, 107, 53, 0.3) !important;
+}
+
+/* social icons styling */
+.social-icons a {
+  color: #ffffff !important;
+  font-size: 1.5rem !important;
+  transition: all 0.3s ease !important;
+  filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.3)) !important;
+}
+
+.social-icons a:hover {
+  color: #00ff00 !important;
+  transform: scale(1.2) !important;
+  filter: drop-shadow(0 0 10px rgba(0, 255, 0, 0.5)) !important;
+}
+
+/* footer typewriter style */
+.footer {
+  font-family: 'JetBrains Mono', monospace !important;
+  text-transform: lowercase !important;
+  font-size: 0.85rem !important;
+}
+
+/* general link improvements */
+a {
+  transition: all 0.3s ease !important;
+}
+
+a:hover {
+  color: var(--accent-warm) !important;
+}
+
+/* optional: typewriter cursor animation */
+@keyframes cursor {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+.profile-title::after {
+  content: "_" !important;
+  animation: cursor 1s infinite !important;
+  color: #00ff00 !important;
+}
+
+/* HIDE DUPLICATE POST CARDS COMPLETELY */
+.post-entry, .first-entry {
+  display: none !important;
+}
+
+/* but keep the main content visible */
+.post-content, .content {
+  display: block !important;
+  background: transparent !important;
+}
+
+/* make sure manual content in _index.md shows properly */
+.page-content, .main .content {
+  display: block !important;
+  background: transparent !important;
+}
+
+/* REMOVE WHITE BOXES - BLEND WITH BACKGROUND */
+
+/* MUCH BETTER TYPOGRAPHY - EASIER ON EYES */
+
+/* bigger, more readable text everywhere */
+body, .main, .content {
+  font-size: 18px !important;
+  line-height: 1.8 !important;
+}
+
+/* smaller, better proportioned headings */
+h1 {
+  font-size: 1.8rem !important;
+  margin-bottom: 1rem !important;
+  margin-top: 1.5rem !important;
+}
+
+h2 {
+  font-size: 1.4rem !important;
+  margin-bottom: 0.8rem !important;
+  margin-top: 1.2rem !important;
+}
+
+h3 {
+  font-size: 1.2rem !important;
+  margin-bottom: 0.6rem !important;
+  margin-top: 1rem !important;
+}
+
+/* much more comfortable paragraph spacing */
+p {
+  font-size: 18px !important;
+  line-height: 1.8 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* better list spacing */
+ul, ol {
+  font-size: 18px !important;
+  line-height: 1.8 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+li {
+  margin-bottom: 0.8rem !important;
+}
+
+/* more comfortable content width - not too wide */
+.main {
+  max-width: 800px !important;
+  margin: 0 auto !important;
+  padding: 2rem !important;
+}
+
+/* better spacing for content sections */
+.post-content {
+  padding: 2rem 0 !important;
+}
+
+/* make links more visible with better colors */
+.content a {
+  color: #2563eb !important;
+  font-weight: 500 !important;
+  text-decoration: underline !important;
+}
+
+.content a:hover {
+  color: #1d4ed8 !important;
+  text-shadow: none !important;
+}
+
+/* better spacing for sections */
+.content h2 + p,
+.content h3 + p {
+  margin-top: 0.5rem !important;
+}
+
+/* comfortable mobile typography */
+@media (max-width: 768px) {
+  body, .main, .content {
+    font-size: 16px !important;
+  }
+  
+  h1 {
+    font-size: 1.6rem !important;
+  }
+  
+  h2 {
+    font-size: 1.3rem !important;
+  }
+  
+  .main {
+    padding: 1rem !important;
+  }
+  
+  .profile-title {
+    font-size: 2rem !important;
+  }
+  
+  .profile-subtitle {
+    font-size: 1rem !important;
+  }
+  
+  .profile-mode {
+    margin: 1rem !important;
+    padding: 2rem 1.5rem !important;
+  }
+  
+  .profile-buttons .button {
+    font-size: 0.9rem !important;
+    padding: 10px 15px !important;
+  }
+}
+
+/* make strong text really stand out with readable colors */
+strong, b {
+  font-weight: 700 !important;
+  color: #1a1a1a !important;
+  background: rgba(255, 255, 255, 0.8) !important;
+  padding: 2px 4px !important;
+  border-radius: 3px !important;
+}
+
+/* better emphasis for italic - readable color */
+em, i {
+  color: #8b4513 !important;
+  font-style: italic !important;
+  font-weight: 500 !important;
+}
