@@ -68,12 +68,9 @@ menu:
     - name: other
       url: /other/
       weight: 4
-    - name: in-progress
-      url: /in-progress/
-      weight: 5
     - name: CV
       url: /selva-dasdemir-cv.pdf/
-      weight: 6
+      weight: 5
 
 # Build settings
 markup:
