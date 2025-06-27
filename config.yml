@@ -1,6 +1,6 @@
 baseURL: 'https://selvads.com'
 languageCode: 'en-us'
-title: 'home'
+title: 'portfolio'
 theme: 'PaperMod'
 
 # Enable taxonomies (tagging system)
@@ -18,10 +18,11 @@ params:
     subtitle: |
       i studied **sociology** and **psychology**, and i'm completing my masters in **interdisciplinary studies of middle east**. i'm interested in **history**, **media studies**, **popular culture**, **migration**, and **memory studies**.
 
-      <br>
 
+      i make videos and do academic research.
       
-      people have called my work **"memory activism"** and **"open source investigation"**. i make documentaries and do academic research.
+
+      people have called my work **"memory activism"** and **"open source investigation"**.
 
       <br>
       
@@ -30,9 +31,7 @@ params:
       - name: "🎬 şokopop videos"
         url: "/videos/sokopop"
       - name: "📄 migration research"
-        url: "/research/migration-study"
-      - name: "🏛️ hammam project"
-        url: "/research/hammam"
+        url: "/research/beyond-citizenship"
 
   # Site settings
   env: development

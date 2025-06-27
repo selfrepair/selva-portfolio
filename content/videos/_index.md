@@ -2,7 +2,7 @@
 title: "videos"
 list: false
 ---
-my video work spans investigative journalism, documentary production, and historical storytelling. most content is in turkish; i provide context and analysis for each piece.
+I create video content across investigative journalism, documentary production, and historical storytelling. Because most pieces are in Turkish, I provide context for each work.
 
 ### [140journos](/videos/140journos/) 
 **editorial internship** (sep 2018 – may 2019)  

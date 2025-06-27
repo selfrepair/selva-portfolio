@@ -141,6 +141,8 @@
   </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
+    <loc>http://localhost:1313/research/beyond-citizenship/</loc>
+  </url><url>
     <loc>http://localhost:1313/videos/sokopop/gain/</loc>
   </url><url>
     <loc>http://localhost:1313/videos/sokopop/nez/</loc>
@@ -148,8 +150,6 @@
     <loc>http://localhost:1313/tags/1980s-turkey/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/2000s-turkey/</loc>
-  </url><url>
-    <loc>http://localhost:1313/research/beyond-citizenship/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/commissioned-work/</loc>
   </url><url>

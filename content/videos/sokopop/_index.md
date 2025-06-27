@@ -11,12 +11,12 @@ languages: ["turkish"]
 # şokopop
 *may 2019 – december 2022*
 
-şokopop tackled complex political and social topics in turkish history, making academic research accessible through engaging visual storytelling. the series covered lgbtq+ history, political movements, cultural criticism, and historical revision.
+şokopop tackles complex political and social topics in turkish history, making  research and archives accessible through engaging visual storytelling. the series covered lgbtq+ history, political movements, cultural criticism, and popular culture.
 
 **[read more about şokopop →](/videos/sokopop/about/)**
 
 
-## chronological projects
+## projects I was involved with
 
 ### 2019
 - **[yıldız sezen blood feud](/videos/sokopop/yildiz-sezen/)** 

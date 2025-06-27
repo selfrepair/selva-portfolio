@@ -1,11 +1,8 @@
----
-title: "Beyond Citizenship: Postmigrant Political Actors and the Politics of Trust"
----
+# beyond citizenship: postmigrant political actors and the politics of trust
+*under review for german politics journal • co-authored research article with prof.dr. gökçe yurdakul and dr. tunay altay*
 
-## Abstract
+this co-authored research article examines how postmigrant political actors navigate and transform political representation in contemporary Germany. conducted as part of the MIGSOC project at Humboldt University Berlin - a  three-year research initiative involving multiple German universities with €3.9 million in federal funding - the study investigates political trust and representation "from below" by analyzing migrant-led civil society organizations and grassroots movements. i was assistant during the last year of the project. 
 
+through 36 qualitative interviews and participant observation in Berlin between 2022-2024, the research reveals how "trust-breakers" and "trust-builders" shape migrants' perceptions of political institutions, while postmigrant political actors create alternative platforms for democratic participation beyond traditional party structures. the study employs postmigrant framework analysis and intersectional approaches to examine how overlapping identities of migration, race, class, and gender influence political engagement in Germany's evolving democratic landscape.
 
-## Key Findings
-
-
-*To be published in German Politics Journal*
+i was invited by professors to co-author this article, contributing to the qualitative and quantitative analysis and ethnographic research components. the findings challenge conventional integration narratives by documenting how civil society organizations develop sophisticated strategies for political influence while navigating structural barriers and representation gaps in mainstream political institutions.
